@@ -1,0 +1,890 @@
+@media (min-width: 279px) and (max-width: 319px){
+/*code start*/
+.header-section .navbar-light .navbar-nav .nav-link {
+    
+   font-size: 8px;
+    font-weight: 600;
+    margin-bottom: -15px;
+}
+
+.navbar-light .navbar-brand {
+    margin: 0px 40px 0px 0px;
+}
+.banner{
+	
+	padding: 40px 0px 60px;
+	
+}
+.banner .banner-inner{
+
+	padding:20px 0px;
+	
+	position: relative;
+}
+.banner .banner-inner h5{
+    font-size: 8px;
+  
+   margin: 0px 0px 5px;
+   line-height: 18px;
+  
+   position: relative;
+  
+}
+.banner .banner-inner h5:before{
+	width:60px ;
+	height:1px;
+	position: absolute;
+	left: 18%;
+	top: 45%;
+}
+.banner .banner-inner h5:after{
+	
+	width:60px ;
+	height:1px;
+	position: absolute;
+	right: 18%;
+	top: 45%;
+	
+}
+.banner .banner-inner h1{
+	 font-size: 50px;
+   
+   margin: 0px 0px 10px;
+   line-height: 60px;
+   
+}
+.banner .banner-inner h6{
+	 font-size: 14px;
+   color: #4f4d6a;
+   font-weight: 400;
+   margin: 0px 0px 10px;
+   line-height: 24px;
+   text-transform: uppercase;
+   
+}
+.banner .banner-inner hr{
+   width: 80%;
+   height: 2px;
+	left: 10%;
+}
+
+.banner .banner-inner .button-groups{
+  
+    padding: 30px 0px 0px;
+    margin-top: 20px;
+}
+.button-groups .btn-primary{
+    padding: 5px 30px;
+    font-size: 10px;
+    font-weight: 400;
+    margin: 0px 0px 10px 0px;
+   
+ 
+}
+.button-groups .btn-primary:hover,.button-groups .btn-primary:focus{
+	color: #000;
+	background: #008ed6;
+    border: 1px solid #008ed6;
+}
+.button-groups .btn-info{
+    padding: 5px 30px;
+    font-size: 10px;
+    font-weight: 400;
+    margin: 0px 0px 10px 0px;
+   
+}
+
+.our-worx .our-worx-inner{
+	
+	padding:40px 0px;
+	
+}
+.our-worx .our-worx-inner h5{
+    font-size: 16px;
+   color: #4f4d6a;
+   font-weight: 500;
+   margin: 0px 0px 10px;
+   line-height: 26px;
+   text-transform: uppercase;
+   position: relative;
+  
+}
+.our-worx .our-worx-inner h5:before{
+	width:60px ;
+	height:1px;
+	position: absolute;
+	left: 10%;
+	top: 45%;
+}
+.our-worx .our-worx-inner h5:after{
+	width:60px ;
+	height:1px;
+	position: absolute;
+	right: 10%;
+	top: 45%;
+}
+.our-worx .our-worx-inner h1{
+	 font-size: 30px;
+     line-height: 40px;
+   
+}
+
+
+.our-worx .worx-details{
+	text-align: center;
+	padding: 20px 0px;
+}
+.our-worx .worx-details img{
+	padding: 6px;
+	
+	border: 6px solid #efefef;
+	border-radius: 50%;
+    
+}
+.our-worx .worx-details h5{
+    font-size: 16px;
+   
+   margin: 10px 0px 10px;
+   line-height: 26px;
+  
+  
+}
+
+
+.our-worx .worx-details p{
+	font-size: 10px;
+	
+	line-height: 20px;
+	
+}
+.our-worx .button-groups{
+    
+    padding: 20px 0px;
+    margin-bottom: 10px;
+    
+}
+.our-worx .button-groups .btn-primary{
+    padding: 5px 30px;
+    
+    font-size: 10px;
+    font-weight: 400;
+    margin: 0px 0px 10px 0px;
+   
+
+}
+
+.our-worx .button-groups .btn-info{
+    padding: 5px 30px;
+    font-size: 10px;
+   
+}
+
+.awesome{
+	padding: 20px 0px 40px;
+}
+
+.awesome .awesome-inner h2 {
+    font-size: 16px;
+   
+   margin: 10px 0px;
+   line-height: 26px;
+   margin-bottom: 10px;
+   
+}
+.awesome .aw-chk p{
+	font-size: 10px;
+	line-height: 20px;
+	
+	margin: 0px 0px;
+}
+.awesome .btn-primary{
+    padding: 2px 18px;
+    font-size: 10px;
+    margin: 2px 0px 25px;
+
+}
+
+.footer-section{
+	
+	padding: 20px 0px 30px;
+}
+.footer-section .footer-inner{
+	
+	padding: 10px 0px;
+}
+.footer-section .footer-inner h2{
+	font-size: 18px;
+  
+  
+   margin: 10px 0px;
+   line-height: 28px;
+   margin-bottom: 30px;
+  
+}
+.footer-section .footer-inner p{
+  font-size: 10px;
+	line-height: 20px;
+
+}
+.footer-section .footer-inner .copyrights p{
+	margin-top: 20px;
+}
+
+
+
+
+/*code end*/
+}
+@media (min-width: 320px) and (max-width: 480px){
+/* code start */
+.header-section .navbar-light .navbar-nav .nav-link {
+    
+   font-size: 10px;
+    font-weight: 600;
+    margin-bottom: -10px;
+}
+
+
+.banner{
+	
+	padding: 50px 0px 80px;
+	
+}
+.banner .banner-inner{
+
+	padding:26px 0px;
+	
+	position: relative;
+}
+.banner .banner-inner h5{
+    font-size: 10px;
+  
+   margin: 0px 0px 7px;
+   line-height: 20px;
+  
+   position: relative;
+  
+}
+.banner .banner-inner h5:before{
+	width:80px ;
+	height:1px;
+	position: absolute;
+	left: 20%;
+	top: 45%;
+}
+.banner .banner-inner h5:after{
+	
+	width:80px ;
+	height:1px;
+	position: absolute;
+	right: 20%;
+	top: 45%;
+	
+}
+.banner .banner-inner h1{
+	 font-size: 50px;
+   
+   margin: 0px 0px 10px;
+   line-height: 60px;
+   
+}
+.banner .banner-inner h6{
+	 font-size: 14px;
+   color: #4f4d6a;
+   font-weight: 400;
+   margin: 0px 0px 10px;
+   line-height: 24px;
+   text-transform: uppercase;
+   
+}
+.banner .banner-inner hr{
+   width: 80%;
+   height: 2px;
+	left: 10%;
+}
+
+.banner .banner-inner .button-groups{
+  
+    padding: 30px 0px 0px;
+    margin-top: 20px;
+}
+.button-groups .btn-primary{
+    padding: 5px 30px;
+    font-size: 10px;
+    font-weight: 400;
+    margin: 0px 5px 10px 0px;
+   
+ 
+}
+
+.button-groups .btn-info{
+    padding: 5px 30px;
+    font-size: 10px;
+    font-weight: 400;
+    margin: 0px 0px 10px 0px;
+   
+}
+
+.our-worx .our-worx-inner{
+	
+	padding:40px 0px;
+	
+}
+.our-worx .our-worx-inner h5{
+    font-size: 20px;
+   margin: 0px 0px 10px;
+   line-height: 30px;
+   
+  
+}
+.our-worx .our-worx-inner h5:before{
+	width:80px ;
+	left: 12%;
+	
+}
+.our-worx .our-worx-inner h5:after{
+	width:80px;
+	right: 12%;
+}
+.our-worx .our-worx-inner h1{
+	 font-size: 30px;
+     line-height: 40px;
+   
+}
+
+
+.our-worx .worx-details{
+	text-align: center;
+	padding: 20px 0px;
+}
+.our-worx .worx-details img{
+	padding: 6px;
+	
+	border: 6px solid #efefef;
+	border-radius: 50%;
+    
+}
+.our-worx .worx-details h5{
+    font-size: 20px;
+   
+   margin: 10px 0px 10px;
+   line-height: 30px;
+  
+  
+}
+
+
+.our-worx .worx-details p{
+	font-size: 12px;
+	
+	line-height: 22px;
+	
+}
+.our-worx .button-groups{
+    
+    padding: 30px 0px;
+    margin-bottom: 10px;
+    
+}
+.our-worx .button-groups .btn-primary{
+    padding: 5px 30px;
+    font-size: 12px;
+    margin: 0px 5px 10px 0px;
+   
+
+}
+
+.our-worx .button-groups .btn-info{
+    padding: 5px 30px;
+    font-size: 12px;
+   
+}
+
+.awesome{
+	padding: 30px 0px 60px;
+}
+
+.awesome .awesome-inner h2 {
+    font-size: 20px;
+   
+   margin: 10px 0px;
+   line-height: 30px;
+   margin-bottom: 10px;
+   
+}
+.awesome .aw-chk p{
+	font-size: 14px;
+	line-height: 22px;
+	
+	margin: 0px 0px;
+}
+.awesome .btn-primary{
+    padding: 2px 18px;
+    font-size: 12px;
+    margin: 10px 0px 25px;
+
+}
+
+.footer-section{
+	
+	padding: 30px 0px;
+}
+.footer-section .footer-inner{
+	
+	padding: 20px 0px;
+}
+.footer-section .footer-inner h2{
+	font-size: 22px;
+  
+  
+   margin: 14px 0px;
+   line-height: 32px;
+   margin-bottom: 30px;
+  
+}
+.footer-section .footer-inner p{
+  font-size: 12px;
+	line-height: 22px;
+
+}
+.footer-section .footer-inner .copyrights p{
+	margin-top: 20px;
+}
+
+
+
+
+/* code end */
+}
+@media (min-width: 481px) and (max-width: 767px){
+	/* code start */
+     .header-section .navbar-light .navbar-nav .nav-link {
+    
+   font-size: 12px;
+    font-weight: 600;
+    margin-bottom: -5px;
+}
+
+
+.banner{
+	
+	padding: 60px 0px 80px;
+	
+}
+.banner .banner-inner{
+
+	padding:30px 0px;
+	
+	
+}
+.banner .banner-inner h5{
+    font-size: 12px;
+  
+   margin: 0px 0px 10px;
+   line-height: 22px;
+  
+}
+.banner .banner-inner h5:before{
+	width:100px ;
+	height:1px;
+	position: absolute;
+	left: 22%;
+	top: 45%;
+}
+.banner .banner-inner h5:after{
+	
+	width:100px ;
+	height:1px;
+	position: absolute;
+	right: 22%;
+	top: 45%;
+	
+}
+.banner .banner-inner h1{
+	 font-size: 50px;
+   
+   margin: 0px 0px 10px;
+   line-height: 60px;
+   
+}
+.banner .banner-inner h6{
+	 font-size: 16px;
+   
+   line-height: 26px;
+   
+   
+}
+.banner .banner-inner hr{
+   width: 80%;
+   height: 2px;
+	left: 10%;
+}
+
+.banner .banner-inner .button-groups{
+  
+    padding: 30px 0px 0px;
+    margin-top: 20px;
+}
+.button-groups .btn-primary{
+    padding: 5px 30px;
+    font-size: 10px;
+    font-weight: 400;
+    margin: 0px 5px 10px 0px;
+   
+ 
+}
+
+.button-groups .btn-info{
+    padding: 5px 30px;
+    font-size: 10px;
+    font-weight: 400;
+    margin: 0px 0px 10px 0px;
+   
+}
+
+.our-worx .our-worx-inner{
+	
+	padding:40px 0px;
+	
+}
+.our-worx .our-worx-inner h5{
+    font-size: 20px;
+   margin: 0px 0px 10px;
+   line-height: 30px;
+   
+  
+}
+.our-worx .our-worx-inner h5:before{
+	width:100px ;
+	left: 16%;
+	
+}
+.our-worx .our-worx-inner h5:after{
+	width:100px;
+	right: 16%;
+}
+.our-worx .our-worx-inner h1{
+	 font-size: 30px;
+     line-height: 40px;
+   
+}
+
+
+.our-worx .worx-details{
+	text-align: center;
+	padding: 20px 0px;
+}
+.our-worx .worx-details img{
+	padding: 6px;
+	
+	border: 6px solid #efefef;
+	border-radius: 50%;
+    
+}
+.our-worx .worx-details h5{
+    font-size: 24px;
+   
+   margin: 10px 0px 10px;
+   line-height: 34px;
+  
+  
+}
+
+
+.our-worx .worx-details p{
+	font-size: 14px;
+	
+	line-height: 24px;
+	
+}
+.our-worx .button-groups{
+    
+    padding: 30px 0px;
+    margin-bottom: 10px;
+    
+}
+.our-worx .button-groups .btn-primary{
+    padding: 5px 30px;
+    font-size: 12px;
+    margin: 0px 8px 10px 0px;
+   
+
+}
+
+.our-worx .button-groups .btn-info{
+    padding: 5px 30px;
+    font-size: 12px;
+   
+}
+
+.awesome{
+	padding: 30px 0px 60px;
+}
+
+.awesome .awesome-inner h2 {
+    font-size: 24px;
+   
+   margin: 10px 0px 15px;
+   line-height: 34px;
+ 
+}
+.awesome .aw-chk p{
+	font-size: 14px;
+	line-height: 22px;
+	
+	margin: 0px 0px;
+}
+.awesome .btn-primary{
+    padding: 2px 18px;
+    font-size: 12px;
+    margin: 10px 0px 25px;
+
+}
+
+.footer-section{
+	
+	padding: 30px 0px;
+}
+.footer-section .footer-inner{
+	
+	padding: 20px 0px;
+}
+.footer-section .footer-inner h2{
+	font-size: 22px;
+  
+  
+   margin: 14px 0px;
+   line-height: 32px;
+   margin-bottom: 30px;
+  
+}
+.footer-section .footer-inner p{
+  font-size: 14px;
+	line-height: 22px;
+
+}
+.footer-section .footer-inner .copyrights p{
+	margin-top: 20px;
+}
+
+
+
+	/* code end */
+
+}
+@media (min-width: 768px) and (max-width: 1024px){
+	/* code start */
+     .header-section .navbar-light .navbar-nav .nav-link {
+    
+   font-size: 14px;
+    font-weight: 600;
+    margin-bottom: 0px;
+}
+
+
+.banner{
+	
+	padding: 80px 0px 100px;
+	
+}
+.banner .banner-inner{
+
+	padding:30px 0px;
+	
+	
+}
+.banner .banner-inner h5{
+    font-size: 14px;
+  
+   margin: 0px 0px 10px;
+   line-height: 24px;
+  
+}
+.banner .banner-inner h5:before{
+	width:150px ;
+	height:2px;
+	position: absolute;
+	left: 22%;
+	top: 45%;
+}
+.banner .banner-inner h5:after{
+	
+	width:150px ;
+	height:2px;
+	position: absolute;
+	right: 22%;
+	top: 45%;
+	
+}
+.banner .banner-inner h1{
+	 font-size: 60px;
+   
+   margin: 0px 0px 20px;
+   line-height: 70px;
+   
+}
+.banner .banner-inner h6{
+	 font-size: 20px;
+   
+   line-height: 30px;
+   
+   
+}
+.banner .banner-inner hr{
+   width: 80%;
+   height: 2px;
+	left: 10%;
+}
+
+.banner .banner-inner .button-groups{
+  
+    padding: 40px 0px 0px;
+    margin-top: 20px;
+}
+.button-groups .btn-primary{
+    padding: 10px 40px;
+    font-size: 14px;
+    font-weight: 400;
+    margin: 0px 8px 20px 0px;
+   
+ 
+}
+
+.button-groups .btn-info{
+    padding: 10px 40px;
+    font-size: 14px;
+    font-weight: 400;
+    margin: 0px 8px 20px 0px;
+   
+}
+
+.our-worx .our-worx-inner{
+	
+	padding:40px 0px;
+	
+}
+.our-worx .our-worx-inner h5{
+    font-size: 20px;
+   margin: 0px 0px 10px;
+   line-height: 30px;
+   
+  
+}
+.our-worx .our-worx-inner h5:before{
+	width:150px ;
+	left: 16%;
+	
+}
+.our-worx .our-worx-inner h5:after{
+	width:150px;
+	right: 16%;
+}
+.our-worx .our-worx-inner h1{
+	 font-size: 34px;
+     line-height: 44px;
+   
+}
+
+
+.our-worx .worx-details{
+	text-align: center;
+	padding: 30px 0px;
+}
+.our-worx .worx-details img{
+	padding: 6px;
+	
+	border: 6px solid #efefef;
+	border-radius: 50%;
+    
+}
+.our-worx .worx-details h5{
+    font-size: 28px;
+   
+   margin: 14px 0px;
+   line-height: 38px;
+  
+  
+}
+
+
+.our-worx .worx-details p{
+	font-size: 14px;
+	
+	line-height: 24px;
+	
+}
+.our-worx .button-groups{
+    
+    padding: 30px 0px;
+    margin-bottom: 10px;
+    
+}
+.our-worx .button-groups .btn-primary{
+    padding: 8px 34px;
+    font-size: 14px;
+    margin: 0px 10px 14px 0px;
+   
+
+}
+
+.our-worx .button-groups .btn-info{
+    padding: 8px 34px;
+    font-size: 14px;
+   
+}
+
+.awesome{
+	padding: 40px 0px 80px;
+}
+
+.awesome .awesome-inner h2 {
+    font-size: 26px;
+   
+   margin: 10px 0px 15px;
+   line-height: 36px;
+ 
+}
+.awesome .aw-chk p{
+	font-size: 14px;
+	line-height: 22px;
+	
+	margin: 0px 0px;
+}
+.awesome .btn-primary{
+    padding: 4px 22px;
+    font-size: 14px;
+    margin: 12px 0px 30px;
+
+}
+
+.footer-section{
+	
+	padding: 40px 0px;
+}
+.footer-section .footer-inner{
+	
+	padding: 20px 0px;
+}
+.footer-section .footer-inner h2{
+	font-size: 26px;
+  
+  
+   margin: 16px 0px;
+   line-height: 36px;
+   margin-bottom: 30px;
+  
+}
+.footer-section .footer-inner p{
+  font-size: 14px;
+	line-height: 22px;
+
+}
+.footer-section .footer-inner .copyrights p{
+	margin-top: 20px;
+}
+
+
+
+
+	/* code end */
+}
